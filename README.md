@@ -7,7 +7,7 @@ The AthleteUnseen Node.js API Wrapper is a library that allows you to access the
 You can install the AthleteUnseen Node.js API Wrapper using npm:
 
 ```
-npm install @athleteunseen/api-wrapper
+npm install @athlete-unseen/api-wrapper
 ```
 
 ## Getting Started
@@ -15,7 +15,7 @@ npm install @athleteunseen/api-wrapper
 To use the AthleteUnseen API Wrapper, you need to sign up for an API key on the [AthleteUnseen website](https://athleteunseen.com) (replace "YOUR_API_KEY" with your actual API key).
 
 ```js
-const AthleteUnseen = require('@athleteunseen/api-wrapper');
+const AthleteUnseen = require('@athlete-unseen/api-wrapper');
 
 const API_KEY = 'YOUR_API_KEY';
 const AthleteUnseenAPI = new AthleteUnseen(API_KEY);
@@ -42,7 +42,7 @@ This method fetches random sports statistics from the AthleteUnseen API.
 ## Example
 
 ```js
-const AthleteUnseen = require('@athleteunseen/api-wrapper');
+const AthleteUnseen = require('@athlete-unseen/api-wrapper');
 
 const API_KEY = 'YOUR_API_KEY';
 const AthleteUnseenAPI = new AthleteUnseen(API_KEY);

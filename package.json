@@ -1,5 +1,5 @@
 {
-  "name": "@athleteunseen/api-wrapper",
+  "name": "@athlete-unseen/api-wrapper",
   "version": "1.0.0",
   "description": "The offical AthleteUnseen API Wrapper for Node.js",
   "main": "index.js",
