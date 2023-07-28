@@ -8,6 +8,6 @@ AthleteUnseenAPI.randStat((error, result) => {
     if (error) {
         console.error('Error fetching random sports statistics:', error);
     } else {
-        console.log('Random Sports Statistics:', result['result']);
+        console.log('Random Sports Statistics:', result);
     }
 });
