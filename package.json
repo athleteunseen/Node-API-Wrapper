@@ -1,8 +1,8 @@
 {
   "name": "@athlete-unseen/api-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The offical AthleteUnseen API Wrapper for Node.js",
-  "main": "index.js",
+  "main": "wrapper.js",
   "scripts": {
     "test": "wrapper.js"
   },
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/athleteunseen/Node-API-Wrapper#readme",
   "dependencies": {
+    "@athlete-unseen/api-wrapper": "^1.0.2",
     "axios": "^1.4.0"
   }
 }

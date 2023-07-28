@@ -23,3 +23,5 @@ class AthleteUnseen
     }
 }
 
+module.exports = AthleteUnseen
+
