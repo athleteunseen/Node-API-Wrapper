@@ -1,0 +1,28 @@
+{
+  "name": "@athleteunseen/api-wrapper",
+  "version": "1.0.0",
+  "description": "The offical AthleteUnseen API Wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "wrapper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athleteunseen/Node-API-Wrapper.git"
+  },
+  "keywords": [
+    "AthleteUnseen",
+    "Sports",
+    "Wrapper",
+    "API"
+  ],
+  "author": "AthleteUnseen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athleteunseen/Node-API-Wrapper/issues"
+  },
+  "homepage": "https://github.com/athleteunseen/Node-API-Wrapper#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
